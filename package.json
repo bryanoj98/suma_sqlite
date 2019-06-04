@@ -7,8 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "4.13.4"
-},
+    "express": "4.13.4",
+    "pg": "^7.11.0",
+    "sqlite3": "^4.0.8"
+  },
   "author": "bryan",
   "license": "ISC"
 }
